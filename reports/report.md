@@ -1,5 +1,8 @@
 # An exploration of Inspection of Power Lines 
 
+## Get dataset
+Download from https://github.com/SnorkerHeng/PLD-UAV and upload to Kaggel.
+
 ## Power Lines - background
 Power lines are critical infrastructure, and it is important that they are in good condition. If they are not, 
 it can lead to power outages, which can be very costly among other things. To prevent power outages, power lines 
